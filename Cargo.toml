@@ -5,6 +5,6 @@ edition = "2021"
 
 [[bin]]
 name = "day01"
-path = "src/day01.rs"
+path = "src/days/day01.rs"
 
 [dependencies]
